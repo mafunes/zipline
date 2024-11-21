@@ -1,0 +1,19 @@
+[com.mafunes.zipline.localize.LocalizeHost]
+
+functions = [
+  # fun close(): kotlin.Unit
+  "moYx+T3e",
+
+  # fun timeZones(): kotlin.collections.List<kotlin.String>
+  "GaZNl/pB",
+]
+
+[com.mafunes.zipline.localizeLocalizePresenter]
+
+functions = [
+  # fun close(): kotlin.Unit
+  "moYx+T3e",
+
+  # fun models(kotlinx.coroutines.flow.Flow<app.cash.zipline.samples.worldclock.WorldClockEvent>): kotlinx.coroutines.flow.Flow<app.cash.zipline.samples.worldclock.WorldClockModel>
+  "GXtzhRC8",
+]
